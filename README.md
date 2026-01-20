@@ -7,4 +7,4 @@ This project was built to help solve that problem.
 
 The News Summarizer takes full news articles and generates concise, readable summaries that capture the key points, allowing users to quickly understand what’s happening without reading the entire article. The goal is to make staying informed easier, faster, and more accessible in everyday life.
 
-This repository contains [News Summarizer Notebook](https://github.com/rodney-sibanda/News-Summarizer/blob/main/News%20Summarizer.ipynb) that explains the model
+This repository contains [News Summarizer Notebook](https://github.com/rodney-sibanda/News-Summarizer/blob/main/NewsSumme%20(3).ipynb) that explains the model
